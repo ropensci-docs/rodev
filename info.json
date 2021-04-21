@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "0aa4be370ff2ed4385a947206112cd2890ad5ed5",
+    "author": "Maëlle Salmon <maelle.salmon@yahoo.se>",
+    "time": "2021-04-21 08:43:59",
+    "files": 1,
+    "merge": false,
+    "message": "Update .Rbuildignore"
+  },
+  "remote": "https://github.com/ropensci-org/rodev",
+  "pkg": "rodev"
+}
